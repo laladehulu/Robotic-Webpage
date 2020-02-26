@@ -1,0 +1,27 @@
+body{
+  width: 100vw;
+  height: 100vh;
+	background: #aeff9a42;;
+}
+.jumbotron{
+  margin: 2rem 30rem 2rem 30rem;
+  border-color: blue;
+  border-radius: 2px;
+  border-style: ridge;
+  height: 35vh;
+  text-align: center;
+  background:url(https://www.fjuhsd.org/cms/lib/CA02000098/Centricity/ModuleInstance/983/large/TT_Web_1495x800_July5.png) center center / 100% 100% no-repeat;
+}
+.navbar{
+  background-color: #187a0042;
+
+}
+.navbar-brand{
+  margin-left: 5em;
+}
+h3{
+      color: white;
+      padding: 0 20;
+
+      line-height: 2em;
+}
